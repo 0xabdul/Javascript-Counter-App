@@ -10,11 +10,18 @@
 
 4. Decrement Function: Similarly, this function is triggered when the user clicks on the decrement button. It decreases the numerical value of the counter by a certain amount (e.g., by 1) and updates the display accordingly.
 
-5. Display Update: After each increment or decrement operation, the JavaScript code updates the display of the counter to reflect the new numerical value.
+5. Display Update: After each increment or decrement operation, the JavaScript code updates the display of the counter to reflect the new numerical value.<br>br>
 
 
 ## Preview Screen Shots 🎟️ <br><br>
 
 
+![Purple Pink Gradient Mobile Application Presentation](https://github.com/0xabdul/Javascript-Counter-App/assets/119418867/6367a47f-62f9-4abf-b4ae-89fc7da9a46a)<br><br>
+
+## Links ✅<br>
+
+<ul>
+  <li><a href="">VIEW  DEMO</a></li>
+</ul>
 
 
