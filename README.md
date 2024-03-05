@@ -36,12 +36,12 @@
 
 
 ## Author<br>
-- GITHUB - [@0xabdul](https://www.github.io/profile/0xAbdul)<br>
+- GITHUB - [@0xabdul](https://github.com/0xabdul)<br>
 
 
 ## Acknowledgments<br>
 <ul>
-  <li>Inspiration by <a href="https://www.freecodecamp.io/home">40 mini projects on free code camp</a></li>
+  <li>Inspiration by <a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/">40 mini js  projects on free code camp</a></li>
 
 
 
