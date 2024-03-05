@@ -1,0 +1,107 @@
+/* font implementation */
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+/* default margin and padding will remove */
+*{
+   box-sizing: border-box;
+   margin:0;
+   padding:0;
+   font-family: "Kumbh Sans", sans-serif;
+}
+
+/* get fonts on root variable */
+
+:root {
+    --primary-red: #f87070;
+    --primary-teal: #70f3f8;
+    --primary-purple: #d881f8;
+    --text-color: #d7e0ff;
+    --dark-background: #1e213f;
+    --light-background: #ffffff;
+    --dark-accent: #161932;
+    --light-accent: #eff1fa;
+}  
+body{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color: var(--dark-accent);
+}
+#btn{
+    display: flex;
+    padding-top:1.5rem;
+    padding-bottom:1.5rem;
+    padding-left:3rem;
+    padding-right:3rem;
+    gap:1rem;
+    border-radius:5rem;
+    background-color:var(--dark-background);
+}
+button{
+    border:0;
+    letter-spacing:0.2rem;
+    background-color:var(--dark-background);
+    color: var(--text-color);
+    font-size:1.1rem;
+}
+#btn button:hover{
+    border-style: solid;
+    background-color:var(--primary-red);
+    transition-duration:1s;
+}
+h1{
+    color:var(--text-color);
+}
+h2{
+    font-size:5rem;
+    color:var(--text-color);
+    border:0;
+    box-shadow:0rem 0rem 3rem 0rem var(--primary-purple);
+    border-style: solid;
+    height:15rem;
+    width:15rem;
+    border-radius:50%;
+   display: flex;
+   justify-content:center ;
+   align-items: center;
+}
+#container,#h2{
+    display: flex;
+    align-items: center;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    gap:5rem;
+}
+@media (max-width:400px) {
+    #btn{
+        padding-left:1.2rem;
+        padding-right:1.2rem;
+    }
+    button{
+        font-size:0.7rem;
+        font-weight:700;
+    }
+    h2{
+        font-size:3rem;
+        height:10rem;
+        width:10rem;
+    }
+}
+@media (max-width:255px) {
+    #btn{
+        padding-left:0.6rem;
+        padding-right:0.6rem;
+    }
+    button{
+        font-size:0.6rem;
+    }
+    h2{
+        font-size:2rem;
+        height:7rem;
+        width:7rem;
+    }
+}
