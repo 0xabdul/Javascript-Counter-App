@@ -21,7 +21,29 @@
 ## Links ✅<br>
 
 <ul>
-  <li><a href="">VIEW  DEMO</a></li>
-</ul>
+  <li><a href="https://0xabdul.github.io/Javascript-Counter-App/">VIEW  DEMO</a></li>
+</ul><br><br>
+
+## technology are used 🛸<br><br>
+
+- Html 📂
+
+- Css 🎨 🖌️
+
+-  visual code editor ⌨️
+
+-  google browser 🔖<br>
+
+
+## Author<br>
+- GITHUB - [@0xabdul](https://www.github.io/profile/0xAbdul)<br>
+
+
+## Acknowledgments<br>
+<ul>
+  <li>Inspiration by <a href="https://www.freecodecamp.io/home">40 mini projects on free code camp</a></li>
+
+
+
 
 
